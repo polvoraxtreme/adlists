@@ -6,4 +6,5 @@ www.expressapisv2.net
 grant.rewards.brave.com
 download.todesktop.com	
 *.thegood.cloud
-*.youtube.com
+.*\.youtube\.com^
+.*\.googlevideo\.com^
